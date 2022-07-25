@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aubree-coelho
 - 👀 I’m interested in Aerospace Engineering with a specialty in propulsion
-- 🌱 I’m currently studying at the University of California, Irvine
+- 🌱 I have a Bachelor of Science degree in Aerospace Engineering from the University of California, Irvine
 - 📫 How to reach me: aubree.coelho@gmail.com
 
 <!---
